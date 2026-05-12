@@ -180,7 +180,6 @@ Python, Librosa, Scikit-learn, Flask
 
 # 🌐 Connect With Me
 
-- GitHub: https://github.com/Mayank149
 - LinkedIn: https://www.linkedin.com/in/mayank-bansal14/
 - Portfolio: https://mayank149.github.io/Portfolio/
 
