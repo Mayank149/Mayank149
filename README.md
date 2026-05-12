@@ -1,4 +1,4 @@
-# Hi, I'm Mayank Bansal 👋
+# Hi, I'm Mayank Bansal 
 
 ### AI/ML Developer | Building Real World Machine Learning Systems
 
@@ -184,11 +184,5 @@ Python, Librosa, Scikit-learn, Flask
 - LinkedIn: https://www.linkedin.com/in/mayank-bansal14/
 - Portfolio: https://mayank149.github.io/Portfolio/
 
----
 
-# 📊 GitHub Stats
-
-![Mayank's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mayank149&show_icons=true&theme=tokyonight&cache_seconds=1800)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mayank149&layout=compact&theme=tokyonight&cache_seconds=1800)
 
