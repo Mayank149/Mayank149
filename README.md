@@ -180,6 +180,7 @@ Python, Librosa, Scikit-learn, Flask
 
 # 🌐 Connect With Me
 
+- Email - bansalmayank1414@gmail.com
 - LinkedIn: https://www.linkedin.com/in/mayank-bansal14/
 - Portfolio: https://mayank149.github.io/Portfolio/
 
