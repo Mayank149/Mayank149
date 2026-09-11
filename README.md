@@ -1,188 +1,86 @@
-# Hi, I'm Mayank Bansal 
+<div align="center">
 
-### AI/ML Developer | Building Real World Machine Learning Systems
+# Mayank Bansal
 
-I’m a Computer Science Engineering student focused on Machine Learning, NLP, Computer Vision, and Retrieval Augmented Generation (RAG). I enjoy building practical AI systems that solve real problems and turning concepts into deployable projects.
+### AI/ML Engineer — Applied ML, RAG Systems & Production AI Engineering
 
-Over the last few years, I’ve built projects across classical ML, deep learning, computer vision, NLP, and full stack AI applications using Python, TensorFlow, Flask, FastAPI, Docker, PostgreSQL, and modern ML workflows.
+Third-year CSE student (LPU, 9.41 CGPA) building and shipping end-to-end ML systems, not tutorials. Recent work spans medical image segmentation, retrieval-augmented generation, and vector search, with a growing focus on agentic systems and production RAG reliability.
 
----
+[![Email](https://img.shields.io/badge/Email-bansalmayank1414%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:bansalmayank1414@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-mayank--bansal14-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayank-bansal14/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View_Site-000000?style=flat-square&logo=googlechrome&logoColor=white)](https://mayank149.github.io/Portfolio/)
 
-## Highlights
-
-- 📘 Published author of a Machine Learning Projects book on Amazon KDP
-- 📄 Published research paper: **Mood2Mail: A Lightweight Real-Time Email Tone Analyzer using Classical Machine Learning**
-- 📊 Published datasets on Kaggle with 60+ downloads
-- 🧠 Built multiple end-to-end AI/ML projects across NLP, Computer Vision, Recommendation Systems, RAG, and Deep Learning
-- ⚡ Experienced with deployment, APIs, Docker, PostgreSQL, FastAPI, Flask, and model integration
-- 📈 Completed Kaggle competitions including Titanic and House Prices
-- 🔍 Currently exploring advanced RAG systems and MLOps workflows
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+## Achievements
 
-### Languages
-- Python
-- Java
-- C++
-- SQL
-- JavaScript
-- HTML/CSS
-
-### Machine Learning & AI
-- Scikit-learn
-- TensorFlow
-- Pandas
-- NumPy
-- OpenCV
-- Librosa
-- NLP
-- CNNs
-- Recommendation Systems
-- Retrieval Augmented Generation (RAG)
-
-### Backend & Deployment
-- Flask
-- FastAPI
-- Docker
-- PostgreSQL
-- REST APIs
-- Git & GitHub
+- Published author — *Machine Learning Projects: A Practical Guide for B.Tech CSE Students* ([Amazon](https://www.amazon.com/dp/B0GX34T5HF))
+- Published researcher — *Mood2Mail: A Lightweight Real-Time Email Tone Analyzer Using Classical ML* (Zenodo)
+- 580+ problems on GeeksforGeeks — 101-day streak, rank 159 of 39,000+ participants
+- 180+ problems on LeetCode
 
 ---
 
-# 🌟 Featured Projects
+## Featured Projects
 
-## 📄 PDF Question Answering System (RAG)
+### [Multi-Hop Technical Debug Assistant](https://github.com/Mayank149/Technical-Debug-Assistant)
+`FastAPI` `FAISS` `Sentence Transformers` `Groq API`
 
-An intelligent Retrieval Augmented Generation system that allows users to ask questions from uploaded PDF documents.
+| | |
+|---|---|
+| **Objective** | Answer technical debugging questions grounded in a live, uploadable knowledge base instead of a static one. |
+| **Solution** | Built a production-style multi-hop RAG pipeline with metadata-aware chunking, persistent FAISS indexing, multi-document retrieval, and source-attributed generation |
+| **Outcome** | 93% RAG accuracy at ~800ms latency, with live knowledge base uploads and semantic retrieval scores exposed to the user. |
 
-### Features
-- PDF ingestion pipeline
-- Semantic retrieval
-- Context-aware question answering
-- RAG workflow implementation
+### [Visual Search Engine](https://github.com/Mayank149/Visual-Search-Engine)
+`PyTorch` `FAISS` `FastAPI` `JavaScript`
 
-### Tech Used
-Python, NLP, Embeddings, Vector Search
+| | |
+|---|---|
+| **Objective** | Build a reverse image search system that finds visually similar products without relying on tags or metadata.|
+| **Solution** | Extracted 2048-dim embeddings with a pretrained ResNet50 and served nearest-neighbour search through FAISS, behind a FastAPI backend with an upload-and-preview frontend. |
+| **Outcome** | Full end-to-end deployment with ~150ms retrieval latency. |
 
----
+### [AI Complaint Triage & Routing System](https://github.com/Mayank149/AI-Complaint-Triage-and-Routing-System-with-Hybrid-Credibility-Scoring-and-Feedback-Learning)
+`Python` `Flask` `Scikit-learn` `TF-IDF` `SQLite`
 
-## 🔍 Visual Search Engine
+| | |
+|---|---|
+| **Objective** | Automate complaint routing and urgency prediction across 8 departments while keeping decisions explainable. |
+| **Solution** | Combined rule-based logic with ML confidence scoring in a hybrid credibility pipeline, exposed via a modular Flask REST API. |
+| **Outcome** | Explainable decision flow with a foundation for continuous retraining; published an 800-sample multi-class complaint dataset on Kaggle. |
 
-A computer vision powered search engine that retrieves visually similar images based on uploaded input images.
+### [Mood2Mail](https://github.com/Mayank149/Mood2Mail)
+`Python` `Scikit-learn` `Flask`
 
-### Features
-- Image similarity search
-- Feature extraction using deep learning
-- Visual embeddings pipeline
-- Computer vision based retrieval system
-
-### Tech Used
-Python, Computer Vision, Deep Learning
-
----
-
-## 📧 Mood2Mail – Real-Time Email Tone Analyzer
-
-A lightweight NLP-powered application that detects the tone of emails and provides real-time feedback before sending.
-
-### Features
-- Tone classification using classical ML
-- TF-IDF based NLP pipeline
-- Real-time prediction system
-- Flask backend with custom frontend
-- Multiple tone categories including Friendly, Formal, Aggressive, Anxious, and Passive
-
-### Tech Used
-Python, Scikit-learn, Flask, HTML, CSS, JavaScript
+| | |
+|---|---|
+| **Objective** | Give real-time feedback on email tone before sending, across five tone categories. |
+| **Solution** | Built a TF-IDF based classical ML pipeline with a Flask backend and custom frontend. |
+| **Outcome** | 96.84% accuracy, published as a research paper on Zenodo. |
 
 ---
 
-## ♻️ WasteSnap – Smart Waste Classification System
+## Technical Skills
 
-A real-time waste classification system that identifies waste categories using deep learning.
-
-### Features
-- Image-based waste prediction
-- CNN-based image classification
-- Real-time inference
-- Practical sustainability-focused use case
-
-### Tech Used
-TensorFlow, CNNs, Python
+- **Languages** — Python, C++, Java, C, SQL, JavaScript
+- **Machine Learning & Deep Learning** — PyTorch, TensorFlow, Scikit-learn, Neural Networks, CNNs, Transfer Learning, Computer Vision, NLP, MLflow, MLOps
+- **Data & Analysis** — NumPy, Pandas, Matplotlib, Seaborn, Feature Engineering, EDA, Model Evaluation
+- **RAG, Agents & Vector Search** — LangChain, LangGraph, RAG, FAISS, ChromaDB, Sentence Transformers, Hugging Face Transformers
+- **Backend & Deployment** — FastAPI, Flask, REST APIs, Docker, Git
 
 ---
 
-## ✍️ DigiDetect – Handwritten Digit Recognition
+## Currently Working On
 
-A deep learning application that recognizes handwritten digits from uploaded images or a drawing board.
-
-### Features
-- CNN-based handwritten digit recognition
-- Interactive drawing board support
-- Real-time prediction
-
-### Tech Used
-TensorFlow, CNNs, Flask
+Agentic systems and LangGraph, RAG reliability and hallucination mitigation, and backend architecture for AI-serving systems.
 
 ---
 
-## 🎵 Music Genre Classification
+<div align="center">
 
-An ML-powered system that predicts the genre of uploaded music files.
+*Open to ML engineering internships and applied AI roles.*
 
-### Features
-- Audio feature extraction using Librosa
-- MP3 and WAV support
-- ML-based genre prediction
-- End-to-end deployment
-
-### Tech Used
-Python, Librosa, Scikit-learn, Flask
-
----
-
-## 🧠 Additional Projects
-
-- AI Complaint Triage & Routing System
-- BiasX-Ray – Real-Time Bias Detector
-- Fake Job Posting Detector
-- Movie Recommendation System
-- Real-Time Sign Language Detector
-- StyleNet – Fashion Image Classifier
-- Car Mileage Predictor
-- University Time Bank Platform
-- Dyslexia AI Assistant
-
----
-
-# 🏆 Achievements
-
-- Published ML research paper
-- Published author of a Machine Learning Projects book
-- Solved 580+ problems on GeeksForGeeks (101-day streak, rank 159 among 39,000+ university students) and 100+ on LeetCode
-- Built multiple deployable ML systems across NLP, Computer Vision, and RAG
-- Published Kaggle datasets with 60+ downloads
-
----
-
-# 📈 Currently Exploring
-
-- Advanced Retrieval Augmented Generation (RAG)
-- MLOps and scalable AI workflows
-- Vector Databases
-- LLM Applications
-- Production-grade AI systems
-
----
-
-# 🌐 Connect With Me
-
-- Email - bansalmayank1414@gmail.com
-- LinkedIn: https://www.linkedin.com/in/mayank-bansal14/
-- Portfolio: https://mayank149.github.io/Portfolio/
-
-
-
+</div>
