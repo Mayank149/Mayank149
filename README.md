@@ -4,7 +4,7 @@
 
 ### AI/ML Engineer — Applied ML, RAG Systems & Production AI Engineering
 
-Third-year CSE student (LPU, 9.41 CGPA) building and shipping end-to-end ML systems, not tutorials. Recent work spans medical image segmentation, retrieval-augmented generation, and vector search, with a growing focus on agentic systems and production RAG reliability.
+AI/ML engineer in training building and shipping end-to-end intelligent systems, not tutorials. Focused on RAG, NLP, computer vision, and production AI, with hands-on work spanning retrieval systems, CNNs, classifiers, neural networks, and agentic architectures.
 
 [![Email](https://img.shields.io/badge/Email-bansalmayank1414%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:bansalmayank1414@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mayank--bansal14-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayank-bansal14/)
