@@ -4,6 +4,7 @@
 
 ### AI/ML Engineer — Applied ML, RAG Systems & Production AI Engineering
 
+
 AI/ML engineer in training building and shipping end-to-end intelligent systems, not tutorials. Focused on RAG, NLP, computer vision, and production AI, with hands-on work spanning retrieval systems, CNNs, classifiers, neural networks, and agentic architectures.
 
 [![Email](https://img.shields.io/badge/Email-bansalmayank1414%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:bansalmayank1414@gmail.com)
@@ -24,6 +25,15 @@ AI/ML engineer in training building and shipping end-to-end intelligent systems,
 ---
 
 ## Featured Projects
+
+### [AI Career Copilot](https://github.com/Mayank149/AI-Career-Copilot-Complete-)
+`Python` `FastAPI` `LangChain` `LangGraph` `RAG` `ChromaDB` `Groq` `Ollama` `Docker`
+ 
+| | |
+|---|---|
+| **Objective** | Build an AI career assistant that helps candidates analyze job fit, identify skill gaps, and tailor resumes without blindly rewriting or inventing experience. |
+| **Solution** | Built an agentic RAG system with ChromaDB, Sentence Transformers, LangGraph tool orchestration, human-in-the-loop resume editing, dual cloud/local LLM providers, and automated PDF generation. |
+| **Outcome** | Achieved 90% Recall@4 and 0.83 MRR@4 on a 15-query retrieval benchmark. Groq delivered 0.81s P50 latency, with Ollama providing a local inference alternative. |
 
 ### [Multi-Hop Technical Debug Assistant](https://github.com/Mayank149/Technical-Debug-Assistant)
 `FastAPI` `FAISS` `Sentence Transformers` `Groq API`
@@ -51,15 +61,6 @@ AI/ML engineer in training building and shipping end-to-end intelligent systems,
 | **Objective** | Automate complaint routing and urgency prediction across 8 departments while keeping decisions explainable. |
 | **Solution** | Combined rule-based logic with ML confidence scoring in a hybrid credibility pipeline, exposed via a modular Flask REST API. |
 | **Outcome** | Explainable decision flow with a foundation for continuous retraining; published an 800-sample multi-class complaint dataset on Kaggle. |
-
-### [Mood2Mail](https://github.com/Mayank149/Mood2Mail)
-`Python` `Scikit-learn` `Flask`
-
-| | |
-|---|---|
-| **Objective** | Give real-time feedback on email tone before sending, across five tone categories. |
-| **Solution** | Built a TF-IDF based classical ML pipeline with a Flask backend and custom frontend. |
-| **Outcome** | 96.84% accuracy, published as a research paper on Zenodo. |
 
 ---
 
