@@ -18,7 +18,7 @@ AI/ML engineer in training building and shipping end-to-end intelligent systems,
 ## Achievements
 
 - Published author — *Machine Learning Projects: A Practical Guide for B.Tech CSE Students* ([Amazon](https://www.amazon.com/dp/B0GX34T5HF))
-- Published researcher — *Mood2Mail: A Lightweight Real-Time Email Tone Analyzer Using Classical ML* (Zenodo)
+- Published researcher — *Mood2Mail: A Lightweight Real-Time Email Tone Analyzer Using Classical ML* ([Zenodo](https://zenodo.org/records/16102315))
 - 580+ problems on GeeksforGeeks — 101-day streak, rank 159 of 39,000+ participants
 - 180+ problems on LeetCode
 
